@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '* * * * *' # KATHE LEPTO
+    - cron: '*/15 * * * *' # KATHE LEPTO
 
 jobs:
   build:
