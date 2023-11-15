@@ -9,8 +9,6 @@ import logging
 import logging.handlers
 import os
 
-import requests
-
 
 
 def extract_from_pdf(program,filename):
